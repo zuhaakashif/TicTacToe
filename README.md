@@ -51,12 +51,12 @@ Follow the on-screen instructions to enter player names, choose symbols, and pla
 ## Example
 
 Below is an example of how the Tic Tac Toe board looks during the game:
-![Screenshot](Screenshot%202024-08-11%20033924.png
-)
 
-https://github.com/zuhaakashif/TicTacToe/blob/main/Screenshot%202024-08-11%20033924.png
 
 ```
+
+![Screenshot](Screenshot%202024-08-11%20033924.png
+)
      |     |     
   X  |  O  |  X  
 _____|_____|_____
