@@ -66,20 +66,7 @@ Below is an example of how the Tic Tac Toe board looks during the game:
 
 ![Screenshot](Screenshot%202024-08-11%20034009.png
 )
-```
 
-![Screenshot](Screenshot%202024-08-11%20033924.png
-)
-     |     |     
-  X  |  O  |  X  
-_____|_____|_____
-     |     |     
-  O  |  X  |  O  
-_____|_____|_____
-     |     |     
-  X  |     |  X  
-     |     |
-```
 
 In this example, player `X` wins the game by aligning three `X`s diagonally.
 
